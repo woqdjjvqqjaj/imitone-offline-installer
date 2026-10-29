@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Pitch-to-MIDI-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Vocal+MIDI+Control-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 imitone Free Installer** — imitone is a real-time pitch detection app that converts humming, singing, or any melodic audio input into MIDI notes. Works without internet access, no account required. Full offline installation.
+**💻 imitone Free Installer** — imitone is a voice-to-MIDI software for Windows and macOS that converts humming, singing, or whistling into MIDI notes. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About imitone
 
-imitone is a real-time pitch detection app that converts humming, singing, or any melodic audio input into MIDI notes. It lets musicians compose and control virtual instruments simply by using their voice, with adjustable latency and pitch correction settings.
+imitone is a voice-to-MIDI software for Windows and macOS that converts humming, singing, or whistling into MIDI notes. Use your voice to play virtual instruments in real time or record melodic ideas by singing them. imitone's pitch detection translates subtle vocal pitch changes into accurate MIDI data for an expressive vocal instrument control experience.
 
 ---
 
 ## ❌ Problem: imitone is hard to access
 
-- **Pitch Accuracy** — Accuracy depends heavily on clear input and minimal background noise
-- **Microphone Sensitive** — Works best with a dedicated microphone rather than laptop mic
-- **Latency** — Real-time pitch detection introduces some processing delay
-- **Limited Polyphony** — Detects single notes only; not suitable for chord detection
+- **Voice Control Precision** — Requires accurate pitch production for reliable note triggering
+- **Microphone Required** — Low-latency microphone essential for real-time use
+- **Commercial License** — Paid application
+- **Learning Curve** — Vocal MIDI performance requires practice for musicality
 
 ---
 
@@ -121,7 +121,7 @@ imitone is a real-time pitch detection app that converts humming, singing, or an
 
 ---
 
-**imitone Free Installer** — imitone is a real-time pitch detection app that converts humming, singing, or any melodic audio input into MIDI notes. Install without internet connection today!
+**imitone Free Installer** — imitone is a voice-to-MIDI software for Windows and macOS that converts humming, singing, or whistling into MIDI notes. Install without internet connection today!
 
 <div align="center">
 
